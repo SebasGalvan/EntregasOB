@@ -1,6 +1,6 @@
-package org.modulo2;
+package org.modulos;
 
-public class Main {
+public class modulo2 {
     public static void main(String[] args) {
 
         byte miByte = 127;
